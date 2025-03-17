@@ -2,5 +2,6 @@
 
 ![Architecture](./SSDmodel.png)
 
-- Reference:
+- References:
 [https://github.com/huutrinh68]
+
